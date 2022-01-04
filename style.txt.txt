@@ -1,1 +1,1 @@
-style version 1
+style version 2
